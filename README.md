@@ -92,6 +92,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanindra-nelavalli&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanindra-nelavalli&theme=default" />
 </p>
 
