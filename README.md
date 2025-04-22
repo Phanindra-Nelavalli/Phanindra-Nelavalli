@@ -34,10 +34,10 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/phanindra-nelavalli-b074a8255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-satya-lakshmi-venkat-miriyala-520832281" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/phanindranelavalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_venkat._.here_" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22pa1a05a2" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/phanindra-nelavalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="22pa1a05a2" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/phanindra-nelavalli-b074a8255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phanindra-nelavalli" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/phanindranelavalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phanindranelavalli" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/22pa1a05b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22pa1a05b1" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/Phanindra_N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Phanindra_N" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="venkatmiriyala" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
 
