@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nelavalli-phanindra-b074a8255/" target="_blank">
+  <a href="https://linkedin.com/in/phanindra-nelavalli-b074a8255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
