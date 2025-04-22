@@ -38,7 +38,7 @@
 <a href="https://instagram.com/phanindranelavalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phanindranelavalli" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/22pa1a05b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22pa1a05b1" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/Phanindra_N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Phanindra_N" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="venkatmiriyala" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/phanindranelavalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="phanindranelavalli" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 
