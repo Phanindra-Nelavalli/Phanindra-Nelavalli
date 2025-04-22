@@ -33,7 +33,7 @@
 
 <p align="left">
   <p align="left">
-<a href="https://linkedin.com/in/phanindra-nelavalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-satya-lakshmi-venkat-miriyala-520832281" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/phanindra-nelavalli-b074a8255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-satya-lakshmi-venkat-miriyala-520832281" height="30" width="40" /></a>
 <a href="https://instagram.com/phanindranelavalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_venkat._.here_" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22pa1a05a2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/phanindra-nelavalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="22pa1a05a2" height="30" width="40" /></a>
