@@ -94,3 +94,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanindra-nelavalli&theme=default" alt="GitHub-Streaks" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanindra-nelavalli&theme=react&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Timeline&bg_color=ffffff&color=000000&line=ff8c00&point=ff8c00&axis=000000" width="95%" alt="Activity Graph" />
+</p>
+
+
+
