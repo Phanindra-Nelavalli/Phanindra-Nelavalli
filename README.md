@@ -24,7 +24,7 @@
 &nbsp;
 &nbsp;
 ## 📜 About Me
-- 🎓 Pursuing **B.Tech in Computer Science Engineering** at Vishnu Institute of Technology (CGPA: 9.42)
+- 🎓 Pursuing **B.Tech in Computer Science Engineering** at Vishnu Institute of Technology, Bhimavaram (CGPA: 9.42)
 - 🤖 Enthusiastic about **Machine Learning** and **Artificial Intelligence**
 - 🌱 Currently learning **Advanced Flutter**, **React Native**, and **Backend Engineering**
 - 🚀 Passionate about building **real-world impactful projects** and **exploring new technologies**
