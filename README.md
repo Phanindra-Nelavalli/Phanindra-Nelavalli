@@ -68,6 +68,13 @@
 
 &nbsp;
 &nbsp;
+### 🌐 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Phanindra_N?theme=bright&ext=heatmap" alt="LeetCode Card" />
+</p>
+
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
