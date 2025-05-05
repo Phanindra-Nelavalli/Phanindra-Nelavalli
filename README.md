@@ -79,13 +79,14 @@
 
 <p align="center">
   <a href="https://github.com/Phanindra-Nelavalli">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-nelavalli&layout=compact&theme=default" alt="Top Languages" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-nelavalli&layout=compact&theme=default" alt="Top Languages" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Phanindra-Nelavalli">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=phanindra-nelavalli&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=phanindra-nelavalli&show_icons=true&locale=en" alt="GitHub Stats" />
   </a>
 </p>
+
 
 <br/>
 
