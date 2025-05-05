@@ -82,9 +82,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-nelavalli&layout=compact&theme=default" alt="Top Languages" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Phanindra-Nelavalli">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=phanindra-nelavalli&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-  </a>
+  
 </p>
 
 <br/>
