@@ -79,31 +79,35 @@
 
 <p align="center">
   <a href="https://github.com/Phanindra-Nelavalli">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-nelavalli&layout=compact&theme=default" alt="Top Languages" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-nelavalli&layout=compact&theme=default&timestamp=20250507" alt="Top Languages" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Phanindra-Nelavalli">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=phanindra-nelavalli&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=phanindra-nelavalli&show_icons=true&locale=en&timestamp=20250507" alt="GitHub Stats" />
   </a>
 </p>
+
 
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=phanindra-nelavalli&theme=flat" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=phanindra-nelavalli&theme=flat&timestamp=20250507" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 <br/>
 
 <p align="center">
-     <img width="86%" height=250px src="https://github-readme-streak-stats-salesp07.vercel.app/?user=phanindra-nelavalli&count_private=true&theme=default&" alt="Streak Stats" />
-      </p> 
+  <img width="86%" height="250px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=phanindra-nelavalli&count_private=true&theme=default&timestamp=20250507" alt="Streak Stats" />
+</p>
+
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanindra-nelavalli&theme=react&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Timeline&bg_color=ffffff&color=000000&line=ff8c00&point=ff8c00&axis=000000" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanindra-nelavalli&theme=react&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Timeline&bg_color=ffffff&color=000000&line=ff8c00&point=ff8c00&axis=000000&timestamp=20250507" width="95%" alt="Activity Graph" />
+
 </p>
 
 
