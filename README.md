@@ -101,12 +101,12 @@
 <br/>
 
 <p align="center">
-  <img width="86%" height="250px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=phanindra-nelavalli&count_private=true&theme=default&timestamp=250711" alt="Streak Stats" />
+  <img width="86%" height="250px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=phanindra-nelavalli&count_private=true&theme=default&timestamp=250712" alt="Streak Stats" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanindra-nelavalli&theme=react&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Timeline&bg_color=ffffff&color=000000&line=ff8c00&point=ff8c00&axis=000000&timestamp=250711" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanindra-nelavalli&theme=react&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Timeline&bg_color=ffffff&color=000000&line=ff8c00&point=ff8c00&axis=000000&timestamp=250712" width="95%" alt="Activity Graph" />
 
 </p>
 
