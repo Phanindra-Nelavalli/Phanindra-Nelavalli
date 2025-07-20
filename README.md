@@ -101,7 +101,7 @@
 <br/>
 
 <p align="center">
-  <img width="86%" height="250px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=phanindra-nelavalli&count_private=true&theme=default&timestamp=250714" alt="Streak Stats" />
+  <img width="86%" height="250px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=phanindra-nelavalli&count_private=true&theme=default&timestamp=250720" alt="Streak Stats" />
 </p>
 
 
